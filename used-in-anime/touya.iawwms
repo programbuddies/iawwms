@@ -1,0 +1,6 @@
+=*= Isekai Smartphone, S1E7
+
+ProgramStart
+Move, 2 meters backwards
+Condition; When someone sits down
+ProgramEnd
