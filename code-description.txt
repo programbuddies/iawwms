@@ -1,5 +1,5 @@
-Program Start: Initiates the spell.
+ProgramStart: Initiates the spell.
 Activation: Describes the function/movement of the object in question.
 Condition: Describes what and when the function/movement should occur
-Program End: Completes the spell.
+ProgramEnd: Completes the spell.
 📱 : Note, like rem in batch
