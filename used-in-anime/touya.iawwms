@@ -1,11 +1,11 @@
-📱 Isekai Smartphone, S1E7, On chair
+notes Isekai Smartphone, S1E7, On chair
 
 ProgramStart
 Move 2 meters backwards
 Condition; When someone sits down
 ProgramEnd
 
-📱 Isekai Smartphone, S1E8, On Brunhild
+notes Isekai Smartphone, S1E8, On Brunhild
 
 ProgramStart
 Condition; When user  speaks "RELOAD"
@@ -17,7 +17,7 @@ Condition; User speaks %Gun Mode% Or %Blade Mode%
 %Gun Mode%; Use modeling to transform the edge from a longsword to a dagger
 ProgramEnd
 
-📱 Isekai Smartphone, S1E9, On Smartphone
+notes Isekai Smartphone, S1E9, On Smartphone
 ProgramStart
 Condition; Touching targets on screen
 Set all as spell targets using Multiple
