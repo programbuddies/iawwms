@@ -2,6 +2,6 @@ ProgramStart: Initiates the spell.
 Activation: Describes the function/movement of the object in question.
 Condition: Describes what and when the function/movement should occur
 ProgramEnd: Completes the spell.
-📱 or notes: Note, like rem in batch
+notes: Note, like rem in batch
 Aports: Import
 Gate: Sends to another file or part in the code.
