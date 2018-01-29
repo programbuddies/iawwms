@@ -3,3 +3,5 @@ Activation: Describes the function/movement of the object in question.
 Condition: Describes what and when the function/movement should occur
 ProgramEnd: Completes the spell.
 📱 : Note, like rem in batch
+Aports: Import
+Gate: Sends to another file or part in the code.
