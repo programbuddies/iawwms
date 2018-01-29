@@ -1,2 +1,2 @@
 # iawwms
-An esolang based on the "Program" spell in Isekai Smartphone
+An esolang based MAINLY on the "Program" spell in Isekai Smartphone
